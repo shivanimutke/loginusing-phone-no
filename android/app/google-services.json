@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "909982452146",
+    "firebase_url": "https://fffff-4d4bb.firebaseio.com",
+    "project_id": "fffff-4d4bb",
+    "storage_bucket": "fffff-4d4bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909982452146:android:2ffa549e980d8cd1903cab",
+        "android_client_info": {
+          "package_name": "com.indonewstream.fff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909982452146-tech08q3gs4h2s35eiin5ljv53hdq021.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAhQMJnYqplnOWjvfLLp9SpLGVYBb68Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909982452146-tech08q3gs4h2s35eiin5ljv53hdq021.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
